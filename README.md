@@ -17,15 +17,6 @@ I thrive on building **innovative solutions**, collaborating with the **communit
 
 ---
 
-## 🌟 Open Source Contributions
-
-I believe in the power of **open source** and love contributing to projects that make a difference! 💡  
-Check out my repositories for:
-
-- 🚀 **[Project 1 Name](#)**: *Brief description of the project.*
-- 🌍 **[Project 2 Name](#)**: *Brief description of the project.*
-- 🔧 **[Project 3 Name](#)**: *Brief description of the project.*
-
 ---
 
 ## 📈 GitHub Stats
@@ -39,9 +30,9 @@ Check out my repositories for:
 
 ## 🌐 Let's Connect!
 
-- **💼 LinkedIn**: [Your LinkedIn Profile](#)
-- **🐦 Twitter**: [@YourTwitterHandle](#)
-- **🌍 Portfolio**: [Your Portfolio](#)
+- **💼 LinkedIn**: 
+- **🐦 Twitter**: 
+- **🌍 Portfolio**: 
 
 ---
 
