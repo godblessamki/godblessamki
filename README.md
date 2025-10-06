@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **godblessamki**! 🎉
+# 👋 Hi there, I'm **Samuel Kouřil**! 🎉
 
 ### ✨ Welcome to My GitHub Profile! 🚀
 
